@@ -1,16 +1,16 @@
 {
-    "version": "1.5.9",
+    "version": "1.5.10",
     "description": "Command line client for Levelrail, a self-hosted deployment platform",
     "homepage": "https://levelrail.com",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/glincker/levelrail/releases/download/v1.5.9/levelrail-cli-windows-amd64.exe#/levelrail-cli.exe",
-            "hash": "8a4c102ec526c123cbf283bbf362d5c41927f1af8ad0f6d7615bb413a8e9dd99"
+            "url": "https://github.com/glincker/levelrail/releases/download/v1.5.10/levelrail-cli-windows-amd64.exe#/levelrail-cli.exe",
+            "hash": "2dcaa3cdf55f79125c48e7889617e8371e91898a6462c2c42210aaa21cf2345e"
         },
         "arm64": {
-            "url": "https://github.com/glincker/levelrail/releases/download/v1.5.9/levelrail-cli-windows-arm64.exe#/levelrail-cli.exe",
-            "hash": "97f019c047eaa25dceb7a1a0ace4ac2328dd13168b567de56301a05c9e965b55"
+            "url": "https://github.com/glincker/levelrail/releases/download/v1.5.10/levelrail-cli-windows-arm64.exe#/levelrail-cli.exe",
+            "hash": "0ec85f71c8ab670aad8adb50c0ebd6e820d73a76026b986ba314affb68a1288b"
         }
     },
     "bin": "levelrail-cli.exe",
